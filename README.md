@@ -8,8 +8,6 @@
 divyaSree-S0/divyaSree-S0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<center>
+
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=divyaSree-S0&hide=stars,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
-</center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaSree-S0)](https://github.com/divyaSree-S0/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=divyaSree-S0&hide=stars,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaSree-S0)](https://github.com/divyaSree-S0/github-readme-stats)
